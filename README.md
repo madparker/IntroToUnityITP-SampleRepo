@@ -1,5 +1,3 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# This is a sample repo, feel free to delete me
 
-DO NOT LEAVE IT LIKE THIS!!!
-
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+I just set this up for a class to demonstrate how to use the Unity Temaplate Repo thingy. Delete me please
