@@ -14,5 +14,7 @@ public class TestScript : MonoBehaviour
     void Update()
     {
         //TODO make a game that does stuff in here
+        
+        Debug.Log("New frame yay!!!");
     }
 }
